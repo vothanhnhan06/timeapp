@@ -1,6 +1,7 @@
 <?php
 include "connect.php";
 
+
 // Đặt header để trả về JSON
 header('Content-Type: application/json; charset=UTF-8');
 
